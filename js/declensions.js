@@ -65,7 +65,7 @@ var words = [
     ////////////////////////////////
     new Word("ovis", "oves", "ovem", "oves", "ovis", "ovium", "ovi", "ovibus", "ove", "ovibus", "får (ovi-) f3",3),
     new Word("animal", "animalia", "animal", "animalia", "animalis", "animalium", "animali", "animalibus", "animali", "animalibus", "dyr (animali-) n3",3),
-    new Word("pastor", "pastores", "pastorem", "pastores", "pastoris", "pastorum", "pastori", "pastoribus", "pastore", "pastoribus", "shepherd",3),
+    new Word("pastor", "pastores", "pastorem", "pastores", "pastoris", "pastorum", "pastori", "pastoribus", "pastore", "pastoribus", "hyrde (pastor-) m3",3),
     new Word("ars", "artes", "artem", "artes", "artis", "artium", "arti", "artibus", "arte", "artibus", "kunst, håndværk (art-) f3",3),
     new Word("arbor", "arbores", "arborem", "arbores", "arboris", "arborum", "arbori", "arboribus", "arbore", "arboribus", "træ (arbor-) f3",3),
     new Word("clamor", "clamores", "clamorem", "clamores", "clamoris", "clamorum", "clamori", "clamoribus", "clamore", "clamoribus", "råb (clamor-) m3",3),
