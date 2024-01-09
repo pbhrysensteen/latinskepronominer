@@ -17,7 +17,7 @@ var words = [
     ////////////////////////////////
     // Declinatio prima
     ////////////////////////////////
-    new Word("femina", "feminae", "feminam", "feminas", "feminae", "feminarum", "feminae", "feminis", "femina", "feminis", "kvinde f1", 1),
+    new Word("femina", "feminae", "feminam", "feminas", "feminae", "feminarum", "feminae", "feminis", "femina", "feminis", "<b>femina</b> <i>f1</i> kvinde", 1),
     new Word("aqua", "aquae", "aquam", "aquas", "aquae", "aquarum", "aquae", "aquis", "aqua", "aquis", "vand f1", 1),
     new Word("amica", "amicae", "amicam", "amicas", "amicae", "amicarum", "amicae", "amicis", "amica", "amicis", "veninde f1" ),
     new Word("porta", "portae", "portam", "portas", "portae", "portarum", "portae", "portis", "porta", "portis", "port f1",1),
@@ -29,7 +29,7 @@ var words = [
     new Word("lacrima", "lacrimae", "lacrimam", "lacrimas", "lacrimae", "lacrimarum", "lacrimae", "lacrimis","lacrima", "lacrimis", "tåre f1", 1),
     new Word("domina", "dominae", "dominam", "dominas", "dominae", "dominarum", "dominae", "dominis", "domina", "dominis", "frue f1",1),
     new Word("gemma", "gemmae", "gemmam", "gemmas", "gemmae", "gemmarum", "gemmae", "gemmis", "gemma", "gemmis", "ædelsten f1",1),
-    new Word("filia", "filiae", "filiam", "filias", "filiae", "filiarum", "filiae", "filiabus", "filia", "filiabus", "datter f1",1),
+    new Word("filia", "filiae", "filiam", "filias", "filiae", "filiarum", "filiae", "filiis", "filia", "filiis", "datter f1",1),
     new Word("incola", "incolae", "incolam", "incolas", "incolae", "incolarum", "incolae", "incolis", "incola", "incolis", "indbygger m1",1),
     new Word("insula", "insulae", "insulam", "insulas", "insulae", "insularum", "insulae", "insulis", "insula", "insulis", "ø f1",1),
     new Word("mensa", "mensae", "mensam", "mensas", "mensae", "mensarum", "mensae", "mensis", "mensa", "mensis", "bord f1",1),
