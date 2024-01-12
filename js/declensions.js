@@ -34,7 +34,7 @@ var words = [
     new Word("insula", "insulae", "insulam", "insulas", "insulae", "insularum", "insulae", "insulis", "insula", "insulis", "insula f1, ø",1),
     new Word("mensa", "mensae", "mensam", "mensas", "mensae", "mensarum", "mensae", "mensis", "mensa", "mensis", "mensa f1, bord",1),
     new Word("poeta", "poetae", "poetam", "poetas", "poetae", "poetarum", "poetae", "poetis", "poeta", "poetis", "poeta m1, digter",1),
-    new Word("puella", "puellae", "puellae", "puellarum", "puellae", "puellis", "puellam", "puellas", "puella", "puellis", "pige f1",1),
+    new Word("puella", "puellae", "puellam", "puellas", "puellae", "puellarum", "puellae", "puellis", "puella", "puellis", "pige f1",1),
     new Word("silva", "silvae", "silvam", "silvas", "silvae", "silvarum", "silvae", "silvis", "silva", "silvis", "skov f1",1),
     new Word("stella", "stellae", "stellam", "stellas", "stellae", "stellarum", "stellae", "stellis", "stella", "stellis", "stjerne f1",1),
     ////////////////////////////////
