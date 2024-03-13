@@ -23,7 +23,7 @@ var words = [
     new Word("idem", "iidem", "eundem", "eosdem", "eiusdem", "eorundem", "eidem", "eisdem", "eodem", "eisdem", "idem (mask) den samme",1),
     new Word("eadem", "eaedem", "eandem", "easdem", "eiusdem", "earundem", "eidem", "eisdem", "eadem", "eisdem", "eadem (fem) den samme",1 ),
     new Word("idem", "eadem", "idem", "eadem", "eiusdem", "eorundem", "eidem", "eisdem", "eodem", "eisdem", "idem (neut) den/det samme", 1),
-    new Word("terra", "terrae", "terram", "terras", "terrae", "terrarum", "terrae", "terris", "terra", "terris", "terra f1, land", 1),
+    //new Word("terra", "terrae", "terram", "terras", "terrae", "terrarum", "terrae", "terris", "terra", "terris", "terra f1, land", 1),
     ////////////////////////////////
     // hic haec hoc
     ////////////////////////////////
