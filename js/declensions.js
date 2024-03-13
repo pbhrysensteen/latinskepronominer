@@ -58,7 +58,7 @@ var words = [
     new Word("puer", "pueri", "puerum", "pueros", "pueri", "puerorum", "puero", "pueris", "puero", "pueris", "puer (puer-) m2, dreng",2),
     new Word("osculum", "oscula", "osculum", "oscula", "osculi", "osculorum", "osculo", "osculis", "osculo", "osculis", "osculum n2, kys",2),
     new Word("templum", "templa", "templum", "templa", "templi", "templorum", "templo", "templis", "templo", "templis", "templum n2, tempel",2),
-    new Word("vesper", "vesperi", "vesperum", "vesperos", "vesperi", "vesperorum", "vespero", "vesperis", "vespere", "vesperis", "vesper (vesper-) m2, aften",2),
+    new Word("vesper", "vesperi", "vesperum", "vesperos", "vesperi", "vesperorum", "vespero", "vesperis", "vespero", "vesperis", "vesper (vesper-) m2, aften",2),
     new Word("vir", "viri", "virum", "viros", "viri", "virorum", "viro", "viris", "viro", "viris", "vir (vir-) m2, mand",2),
     ////////////////////////////////
     // Declinatio tertia
