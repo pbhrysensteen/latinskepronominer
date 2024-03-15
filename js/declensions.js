@@ -17,8 +17,8 @@ var words = [
     ////////////////////////////////
     // is ea id
     ////////////////////////////////
-    new Word("is", "ii", "eum", "eos", "eius", "eorum", "ei", "ei", "eo", "eis", "is (mask), han, den", 1),
-    new Word("ea", "eae", "eam", "eas", "eius", "earum", "eis", "eis", "ea", "eis", "ea (fem), hun, den", 1),
+    new Word("is", "ii", "eum", "eos", "eius", "eorum", "ei", "eis", "eo", "eis", "is (mask), han, den", 1),
+    new Word("ea", "eae", "eam", "eas", "eius", "earum", "ei", "eis", "ea", "eis", "ea (fem), hun, den", 1),
     new Word("id", "ea", "id", "ea", "eius", "eorum", "ei", "eis", "eo", "eis", "id (neut), den, det" ),
     new Word("idem", "iidem", "eundem", "eosdem", "eiusdem", "eorundem", "eidem", "eisdem", "eodem", "eisdem", "idem (mask) den samme",1),
     new Word("eadem", "eaedem", "eandem", "easdem", "eiusdem", "earundem", "eidem", "eisdem", "eadem", "eisdem", "eadem (fem) den samme",1 ),
@@ -45,18 +45,18 @@ var words = [
     // Q-pronomen (relativ- og interrogativpronomen)
     ////////////////////////////////
     new Word("qui", "qui", "quem", "quos", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "qui (mask) som, der, hvis (relativ)",4), 
-    new Word("quae", "quae", "quam", "quas", "cuius", "quarum", "cui", "quibus", "qua", "quibus", "qui (mask) som, der, hvis (relativ)",4),
-    new Word("quod", "quae", "quod", "quae", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "qui (mask) som, der, hvis (relativ)",4),
+    new Word("quae", "quae", "quam", "quas", "cuius", "quarum", "cui", "quibus", "qua", "quibus", "quae (fem) som, der, hvis (relativ)",4),
+    new Word("quod", "quae", "quod", "quae", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "quod (neut) som, der, hvis (relativ)",4),
     new Word("quis", "qui", "quem", "quos", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "quis (mask) hvem? hvis? (interrogativ)",4),
     new Word("quae", "quae", "quam", "quas", "cuius", "quarum", "cui", "quibus", "qua", "quibus", "quae (fem) hvem? hvis? (interrogativ)",4),
-    new Word("quid", "quae", "quid", "quae", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "quis (neut) hvad? hvis? (interrogativ)",4),
+    new Word("quid", "quae", "quid", "quae", "cuius", "quorum", "cui", "quibus", "quo", "quibus", "quid (neut) hvad? hvis? (interrogativ)",4),
 
     
     ////////////////////////////////
     // ipse
     ////////////////////////////////
     new Word("ipse", "ipsi", "ipsum", "ipsos", "ipsius", "ipsorum", "ipsi", "ipsis", "ipso", "ipsis", "ipse (mask) selv",5),
-    new Word("ipsa", "ipsae", "ipsam", "ipsas", "ipsius", "ipsorum", "ipsi", "ipsis", "ipsa", "ipsis", "ipsa (fem) selv",5),
+    new Word("ipsa", "ipsae", "ipsam", "ipsas", "ipsius", "ipsarum", "ipsi", "ipsis", "ipsa", "ipsis", "ipsa (fem) selv",5),
     new Word("ipsum", "ipsa", "ipsum", "ipsa", "ipsius", "ipsorum", "ipsi", "ipsis", "ipso", "ipsis", "ipsum (neut) selv",5),
 
 ];
